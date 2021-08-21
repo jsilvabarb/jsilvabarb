@@ -5,6 +5,10 @@
 - 👩🏾‍🎓 Cursando Engenharia Biomédica
 - 👩🏾‍💻 Aluna do Programa MilDevs - Mesttra.
 - ❤ Além de tecnologia, amo biologia e HP
+<div>
+  <p align="right"> 👀 </p>
+  <p align="right">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+</div>
 <hr>
 <div>
   <a href="https://github.com/jsilvabarb">     
@@ -23,10 +27,12 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>   
 </div>
 <div>
-  <h2>Minhas redes 👀</h2>
- <img src="https://i.picasion.com/pic91/027215eee1c494d5ca673325c9ffeef4.gif" width="130px" height="130px"></img> 
+  <hr>
+  <p align="center"><img src="https://i.picasion.com/pic91/027215eee1c494d5ca673325c9ffeef4.gif" width="130px" height="130px"></img> </p>
   <div>
-  <a href="https://www.linkedin.com/in/julia-barbosa-795545171/">🟣LinkedIn</a>
-  <a href="https://www.instagram.com/jsilvabarb/?hl=pt-br">🟣Instagram🟣</a>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/julia-barbosa-795545171/">🟣LinkedIn</a>
+      <a href="https://www.instagram.com/jsilvabarb/?hl=pt-br">🟣Instagram🟣</a>
+    </p>
   </div>
 </div>
