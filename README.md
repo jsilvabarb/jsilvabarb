@@ -1,4 +1,4 @@
-### Olá, bem vindo! Aqui é a Julia Barbosa! 💁🏾‍♀️
+## Olá, bem vindo! Aqui é a Julia Barbosa! 💁🏾‍♀️
 
 
 - 🌱 Estou estudando python e ReactJs
