@@ -31,8 +31,8 @@
   <p align="center"><img src="https://i.picasion.com/pic91/027215eee1c494d5ca673325c9ffeef4.gif" width="130px" height="130px"></img> </p>
   <div>
     <p align="center">
-      <a href="https://www.linkedin.com/in/julia-barbosa-795545171/">👾LinkedIn</a>
-      <a href="https://www.instagram.com/jsilvabarb/?hl=pt-br">👾Instagram👾</a>
+      <a href="https://www.instagram.com/jsilvabarb/?hl=pt-br"><img width="50px" height="50px"    src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></img></a>
+        <a href="https://www.linkedin.com/in/julia-barbosa-795545171/"><img width="100px" height="60px"        src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></img></a>      
     </p>
   </div>
 </div>
