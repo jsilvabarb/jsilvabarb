@@ -1,7 +1,7 @@
 ## Olá, bem vinda(o)! Aqui é a Julia Barbosa! 💁🏾‍♀️
 
 
--  Buscando um próximo nível! 
+- 🚀 Buscando um próximo nível! 
 <div>
   <p align="right"> 👀 </p>
   <p align="right">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
@@ -10,7 +10,6 @@
 <div>
   <a href="https://github.com/jsilvabarb">     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsilvabarb&theme=jolly&show_icons=true"></img>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsilvabarb&layout=compact&langs_count=16&theme=jolly"></img>  
 </div>
 <br>
 <div>
