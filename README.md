@@ -1,10 +1,7 @@
 ## Olá, bem vinda(o)! Aqui é a Julia Barbosa! 💁🏾‍♀️
 
 
-- 🌱 Estou estudando python e ReactJs
-- 👩🏾‍🎓 Cursando Engenharia Biomédica
-- 👩🏾‍💻 Aluna do Programa MilDevs - Mesttra.
-- ❤ Além de tecnologia, amo biologia e HP
+-  Buscando um próximo nível! 
 <div>
   <p align="right"> 👀 </p>
   <p align="right">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
