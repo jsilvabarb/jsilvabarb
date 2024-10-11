@@ -23,12 +23,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>   
 </div>
 <br>
-<div>
-  <a href="https://github.com/jsilvabarb">     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsilvabarb&theme=jolly&show_icons=true"></img>
-  
-</div>
-<br>
 
 <div>
   <hr>
