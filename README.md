@@ -1,7 +1,7 @@
 ## Hi! My name is Julia, welcome to my github! 💁🏾‍♀️
 
 
-- 📚 I am a Science and Technology student at the Federal University of Sao Paulo. I'm following the path to Biomedical Engineering.
+- 📚 I am a Science and Technology student at the Federal University of Sao Paulo. I'm following the path to Computer Science.
 - 👩🏾‍💻 I am a Systems Development Technician at Senai Santos Dumont Institution.
 - 💻 I've been doing algorithms in C, Python and developing systems in Javascript.
 - ❤ I love sun, beach, dogs and adventure and fantasy stories!
