@@ -18,5 +18,5 @@
 <br>
 
 ## Contact me
-[Linkedin](https://www.linkedin.com/in/julia-barbosa-795545171)
+[Linkedin](https://www.linkedin.com/in/julia-795545171/)
 
